@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FedAuthDebugger", "FedAuthDebugger\FedAuthDebugger.csproj", "{99CBDD3A-4A37-4333-B808-8149F2CD59EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FedAuthDebugger.App", "FedAuthDebugger.App\FedAuthDebugger.App.csproj", "{A1026CEB-8F5D-41CD-AEC2-8DC902585930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CBDD3A-4A37-4333-B808-8149F2CD59EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CBDD3A-4A37-4333-B808-8149F2CD59EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CBDD3A-4A37-4333-B808-8149F2CD59EA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{99CBDD3A-4A37-4333-B808-8149F2CD59EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CBDD3A-4A37-4333-B808-8149F2CD59EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CBDD3A-4A37-4333-B808-8149F2CD59EA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A1026CEB-8F5D-41CD-AEC2-8DC902585930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1026CEB-8F5D-41CD-AEC2-8DC902585930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1026CEB-8F5D-41CD-AEC2-8DC902585930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1026CEB-8F5D-41CD-AEC2-8DC902585930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

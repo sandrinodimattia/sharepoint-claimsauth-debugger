@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="788f95a6-c4cc-426c-96ab-67cca8eab90d" solutionId="788f95a6-c4cc-426c-96ab-67cca8eab90d" resetWebServer="false" sharePointProductVersion="15.0" name="FedAuthDebugger" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="fdeef988-9e15-4e16-bee8-3edb29a9bdb0" />
+  </features>
+</package>
